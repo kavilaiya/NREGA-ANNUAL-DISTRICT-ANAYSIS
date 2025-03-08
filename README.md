@@ -1,2 +1,2 @@
 # NREGA-ANNUAL-DISTRICT-ANAYSIS
-The NREGA annual district analysis for Tamil Nadu highlights that Dindigul and Cuddalore generated the highest employment person-days, while employment availed was slightly lower than offered, with low 100-day work completion except in Dindigul.
+Developed an interactive Power BI dashboard visualizing NREGA data, showcasing district-wise 100-day work completion. Analyzed employment trends, fund allocation, and beneficiary distribution to support decision-making. The NREGA annual district analysis for Tamil Nadu highlights that Dindigul and Cuddalore generated the highest employment person-days, while employment availed was slightly lower than offered, with low 100-day work completion except in Dindigul.
